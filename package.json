@@ -1,0 +1,23 @@
+{
+  "name": "curly-electron-app",
+  "version": "1.0.0",
+  "description": "Easy",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niaodtiantang/curly-electron-app.git"
+  },
+  "author": "niaodtiantang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/niaodtiantang/curly-electron-app/issues"
+  },
+  "homepage": "https://github.com/niaodtiantang/curly-electron-app#readme",
+  "devDependencies": {
+    "electron": "^29.2.0"
+  }
+}
